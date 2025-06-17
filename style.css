@@ -1,5 +1,5 @@
-.body{
-  font-family: "Playfair Display", serif;
+body{
+  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
@@ -10,7 +10,7 @@
   width: 400px;
   height: 500px;
   perspective: 1000px;
- font-family: "Playfair Display", serif;
+ font-family:  "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
