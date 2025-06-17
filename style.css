@@ -57,8 +57,8 @@ body{
 }
 
 .flip-card-back {
-  background: #c4c4c4;
-  color: #000000;
+  /* background: #5a5a5afa;
+  color: #000000; */
   transform: rotateY(180deg);
 }
 
